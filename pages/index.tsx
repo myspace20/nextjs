@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <p className='text-8xl'>Hello</p>
+        <p className='text-8xl'>Hello, this is Next Js</p>
       </main>
     </>
   )
